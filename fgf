@@ -1,6 +1,7 @@
 let dollars = 2
 let cents = 100
-let amount = dollars * cents
-let year = 2020
+let amount = dollars * cents //multiples 2 by 100 : 200   
+     let year = 2020
 let nextDecade = year + 10
 let temperature = 20
+let climate change = temperature + 12
